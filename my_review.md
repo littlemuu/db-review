@@ -18,7 +18,7 @@ DDL 是 **Data Definition Language**，中文叫**数据定义语言**。
 
 ---
 
-![alt text](image.png)
+![alt text](./img/image.png)
 
 ---
 
@@ -49,30 +49,30 @@ DCL 是 **Data Control Language**，中文叫**数据控制语言**。
 
 ---
 
-![alt text](image-1.png)
+![alt text](./img/image-1.png)
 
-![alt text](image-2.png)
+![alt text](./img/image-2.png)
 
 
 ## 3
 
-![三元联系分解为二元](image-3.png)
+![三元联系分解为二元](./img/image-3.png)
 
 ---
 
-![alt text](image-4.png)
+![alt text](./img/image-4.png)
 
 ---
 
-![alt text](image-5.png)
+![alt text](./img/image-5.png)
 
 ---
 
-![alt text](image-6.png)
+![alt text](./img/image-6.png)
 
 ---
 
-![alt text](image-7.png)
+![alt text](./img/image-7.png)
 **多值依赖（Multivalued Dependency，MVD**指的是：**在一个关系中，某个属性确定后，另一组属性可以独立地取多个值，且彼此互不约束**。记作
 A →→ B。
 
@@ -154,7 +154,7 @@ Sno ∪ Phone ≠ {Sno, Phone, Email}
 ---
 
 **规范化**
-![alt text](image-8.png)
+![alt text](./img/image-8.png)
 
 ---
 
