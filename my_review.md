@@ -158,4 +158,19 @@ Sno ∪ Phone ≠ {Sno, Phone, Email}
 
 ---
 
+![alt text](./img/image-9.png)
 
+---
+
+![alt text](./img/image-10.png)
+
+![exp](./img/image-11.png)
+
+---
+
+**最小函数依赖集**
+* 右侧为单属性。
+* 无多余函数依赖。
+* 左侧无多余属性。
+
+---
