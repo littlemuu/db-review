@@ -361,4 +361,22 @@ CASCADE 级联
 
 集合不允许重复值，包允许（数据库查询基于）。
 
+![alt text](image.png)
+
+---
+
+![alt text](image-1.png)
+
+## 8.
+
+
+## 9.日志
+
+![alt text](img/image-19.png)
+
+![alt text](img/image-20.png)
+
+---
+
+日志必须比数据更早的写入磁盘.
 
